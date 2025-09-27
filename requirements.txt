@@ -51,3 +51,4 @@ traitlets==5.14.3
 tzdata==2025.1
 wcwidth==0.2.13
 whitenoise==6.10.0
+xhtml2pdf
